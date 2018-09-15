@@ -11,18 +11,23 @@
     },
     "devDependencies": {
         "babel-eslint": "^9.0.0",
-        "eslint": "4.x",
-        "eslint-config-airbnb": "17.1.0",
+        "eslint": "^4.19.1",
+        "eslint-config-airbnb": "^17.1.0",
         "eslint-config-prettier": "^3.0.1",
+        "eslint-plugin-import": "^2.14.0",
+        "eslint-plugin-jest": "^21.22.0",
+        "eslint-plugin-jsx-a11y": "^6.1.1",
+        "eslint-plugin-prettier": "^2.6.2",
+        "eslint-plugin-react": "^7.11.0",
+        "prettier": "^1.14.2",
+        "prettier-config-joaopedrodcf": "^1.0.4"
+    },
+    "peerDependencies": {
+        "eslint": "^4.19.1",
         "eslint-plugin-import": "2.14.0",
         "eslint-plugin-jest": "^21.22.0",
         "eslint-plugin-jsx-a11y": "6.1.1",
         "eslint-plugin-prettier": "^2.6.2",
-        "eslint-plugin-react": "7.11.0",
-        "prettier": "1.x",
-        "prettier-config-joaopedrodcf": "1.0.4"
-    },
-    "peerDependencies": {
-        "eslint": "^4.x"
+        "eslint-plugin-react": "7.11.0"
     }
 }
