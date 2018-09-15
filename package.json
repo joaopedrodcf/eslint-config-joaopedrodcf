@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-joaopedrodcf",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Eslint configs to use throught my projects",
     "main": "src/index.js",
     "repository": "https://github.com/joaopedrodcf/eslint-config-joaopedrodcf.git",
