@@ -22,6 +22,30 @@ module.exports = {
                 specialLink: ['to']
             }
         ],
+        'import/order': [
+            'error',
+            {
+                groups: [
+                    'external',
+                    'index',
+                    'sibling',
+                    'parent',
+                    'internal',
+                    'builtin'
+                ]
+            }
+        ],
+        'react/require-default-props': 'warn',
+        'jsx-a11y/label-has-for': 0,
+        'jsx-a11y/label-has-associated-control': 0,
+        "no-underscore-dangle": [
+            "error",
+            {
+                "allow": [
+                    "_id"
+                ]
+            }
+        ]
         'prettier/prettier': ['error']
     }
 };
