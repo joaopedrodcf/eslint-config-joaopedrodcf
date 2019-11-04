@@ -474,11 +474,6 @@ eslint-config-airbnb@^18.0.1:
     object.assign "^4.1.0"
     object.entries "^1.1.0"
 
-eslint-config-joaopedrodcf@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-joaopedrodcf/-/eslint-config-joaopedrodcf-1.2.0.tgz#12b4cb19f003e85c22b1404cf2d394053ddef5ff"
-  integrity sha512-i8iifk9K+UKQOZiY9mPrN0HAMRFPT/NgsrrZcW8vFMOkqBVZQlUPSWiSOGMCbnNpTWpmQNwxDOJ87qcFUEj9/g==
-
 eslint-config-prettier@^6.5.0:
   version "6.5.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-6.5.0.tgz#aaf9a495e2a816865e541bfdbb73a65cc162b3eb"
